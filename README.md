@@ -55,9 +55,11 @@ MySQL
 8. Link for admin Panel : http://localhost/shopping/admin
 
 
-## 👩‍💻 Author
+## 👨‍💻 Author
+- [Shreyali Dhabale]
+- [www.linkedin.com/in/shreyali-dhabale-263135338/]
+- [dhabaleshreyali@gmail.com]
 
-Shreyali D
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
