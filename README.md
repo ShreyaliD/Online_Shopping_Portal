@@ -23,3 +23,17 @@ User Account Management
 Admin Panel (if included)
 
 Database Connectivity
+
+
+# 🛠️ Technologies Used
+
+HTML
+
+CSS
+
+JavaScript
+
+PHP
+
+MySQL
+
