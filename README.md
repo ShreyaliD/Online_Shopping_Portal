@@ -1,2 +1,7 @@
-# Online_Shopping_Portal
-Online Shopping Portal is a web-based application that allows users to browse products, add items to a cart, and place orders online. It includes user authentication and database integration to manage products and customer information. This project demonstrates basic e-commerce functionality using front-end, back-end, and database technologies.
+# 🛒 Online Shopping Portal
+# 📌 Project Overview
+
+The Online Shopping Portal is a web-based e-commerce application that allows users to browse products, add items to a cart, and place orders online.
+The system provides a simple and user-friendly interface with secure login and database integration.
+
+This project demonstrates the working of a basic e-commerce platform using front-end and back-end technologies.
