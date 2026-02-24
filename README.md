@@ -1,12 +1,12 @@
 # 🛒 Online Shopping Portal
-# 📌 Project Overview
+## 📌 Project Overview
 
 The Online Shopping Portal is a web-based e-commerce application that allows users to browse products, add items to a cart, and place orders online.
 The system provides a simple and user-friendly interface with secure login and database integration.
 
 This project demonstrates the working of a basic e-commerce platform using front-end and back-end technologies.
 
-# 🚀 Features
+## 🚀 Features
 
 User Registration and Login
 
@@ -25,7 +25,7 @@ Admin Panel (if included)
 Database Connectivity
 
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML
 
@@ -37,7 +37,7 @@ PHP
 
 MySQL
 
-# How to run the Online Shopping Portal using PHP and MySQL
+## How to run the Online Shopping Portal using PHP and MySQL
 1. Download the  zip file
 
 2. Extract the file and copy shopping folder
@@ -55,7 +55,7 @@ MySQL
 8. Link for admin Panel : http://localhost/shopping/admin
 
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 Shreyali D
 
